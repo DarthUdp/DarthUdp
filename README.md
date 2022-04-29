@@ -1,5 +1,5 @@
 # Quick facts:
-- Hey there fellow human, I’m Matheus Xavier aka @DarthUDP
+- Hey there fellow human, I’m Matheus Xavier aka @mxavierd
 - I work on backend code for a living and have a passion for low level stuff, like at the OS level
 - I'm always learning since I enjoy it quite a bit
 - You can reach me on github, or any of my public emails listed in my profile 🙂
